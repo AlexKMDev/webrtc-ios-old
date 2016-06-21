@@ -27,7 +27,7 @@
     ]
   },
   "platforms": {
-    "ios": "7.0",
+    "ios": "7.0"
   },
   "source_files": "Headers/*.h",
   "libraries": [
