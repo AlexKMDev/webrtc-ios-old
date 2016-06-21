@@ -1,0 +1,5 @@
+webrtc/src/build/common.gypi
+'ios_deployment_target%': '8.0'
+
+webrtc/src/webrtc/build/common.gypi
+'use_objc_h264%': 1
