@@ -8,7 +8,7 @@
     "Rahul Behera": "rahul@pristine.io"
   },
   "source": {
-    "http": "https://github.com/Anakros/webrtc-ios/releases/download/13236/libWebRTC-13236-arm-intel-Release.a.xz"
+    "http": "https://github.com/Anakros/webrtc-ios/releases/download/13236/libWebRTC-13236-arm-intel-Release.tar.xz"
   },
   "social_media_url": "https://twitter.com/bot_the_builder",
   "ios": {
